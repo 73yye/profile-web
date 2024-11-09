@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.nice-image {
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.name {
+    font-size: 26px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 4px;
+}
+
+.link {
+    background-color: lightcyan;
+    display: inline-block;
+    width: 300px;
+    color: darkcyan;
+    padding: 12px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 13px;
+}
